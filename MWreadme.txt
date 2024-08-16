@@ -1,0 +1,1 @@
+This project is mainly for development of Dawn Of Metal and other historical BaS mods
